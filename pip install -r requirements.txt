@@ -1,0 +1,2 @@
+3. `config.py` dosyasındaki API anahtarını ve diğer bilgileri düzenleyin.
+4. Botu başlatmak için:
